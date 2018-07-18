@@ -49,5 +49,5 @@ cef3.xxxx.xxxx/
 |3.2171.1979|39.0.2171|[download](https://github.com/wy3/cefbuild/releases/download/cef3.2171.1979/cef3.2171.1979_x86.7z)|[download](https://github.com/wy3/cefbuild/releases/download/cef3.2171.1979/cef3.2171.1979_x64.7z)|
 |3.2171.1972|39.0.2171|[download](https://github.com/wy3/cefbuild/releases/download/cef3.2171.1972/cef3.2171.1972_x86.7z)|[download](https://github.com/wy3/cefbuild/releases/download/cef3.2171.1972/cef3.2171.1972_x64.7z)|
 |3.2171.1949|39.0.2171|[download](https://github.com/wy3/cefbuild/releases/download/cef3.2171.1949/cef3.2171.1949_x86.7z)|[download](https://github.com/wy3/cefbuild/releases/download/cef3.2171.1949/cef3.2171.1949_x64.7z)|
-
+|3.2062.1898|37.0.2062|[download](https://github.com/wy3/cefbuild/releases/download/cef3.2171.1949/cef3.2062.1898_x86.7z)|[download](https://github.com/wy3/cefbuild/releases/download/cef3.2171.1949/cef3.2062.1898_x64.7z)|
 
