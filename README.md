@@ -26,9 +26,9 @@ cef3.xxxx.xxxx/
 
 ### Download
 
-Visit my repo's releases or download below.
- 
-| CEF | Chromium | x86 | x64
+#### Visit my [repo's releases](https://github.com/wy3/cefbuild/releases) or download below.
+
+| CEF | Chromium | x86 | x64 |
 |-|-|-|-|
 |3.3239.1723|63.0.3239|[download](https://github.com/wy3/cefbuild/releases/download/cef3.3239.1723/cef3.3239.1723_x86.7z)|[download](https://github.com/wy3/cefbuild/releases/download/cef3.3239.1723/cef3.3239.1723_x64.7z)|
 |3.3239.1716|63.0.3239|[download](https://github.com/wy3/cefbuild/releases/download/cef3.3239.1716/cef3.3239.1716_x86.7z)|[download](https://github.com/wy3/cefbuild/releases/download/cef3.3239.1716/cef3.3239.1716_x64.7z)|
