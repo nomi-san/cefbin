@@ -1,7 +1,7 @@
 # CEFBuild
 CEF's include header + binary built for Windows.
 
-### Sources
+### Resources
 
 - [Cef SDK](https://www.nuget.org/packages/cef.sdk)
 - [Cef Redist x86](https://www.nuget.org/packages/cef.redist.x64)
