@@ -1,5 +1,5 @@
-# CEFBuild
-CEF's include header + binary built for Windows.
+# CEFBin
+C/C++ header & pre-built binary for CEF Win32
 
 ### Resources
 
@@ -10,18 +10,16 @@ CEF's include header + binary built for Windows.
 ### Directory
 
 ```erlang
-
 cef3.xxxx.xxxx/
-      |----include/...                                  -> include header files
+      |----include/...                                  -> header files
       |----resources/...                                -> resources files
-      |----bin/
+      |----bin/                                         -> binaries & locales
             |----debug/ & release/
             |      |----vsxxxx/
-            |      |      |----libcef_dll_wrapper.lib   -> static library for C++
-            |      |----libcef.lib                      -> libcef static library
-            |----libcef.dll                             -> libcef binary
-            |...
-            
+            |      |      |----libcef_dll_wrapper.lib   -> static lib for C++
+            |      |----libcef.lib                      -> linking lib
+            |----libcef.dll                             -> dynamic linking binary
+            ...
 ```
 
 ### Download
