@@ -1,5 +1,5 @@
 # CEFBin
-C/C++ header & pre-built binary for CEF Win32
+C/C++ header & pre-built binaries for CEF Win32
 
 ### Resources
 
@@ -7,24 +7,24 @@ C/C++ header & pre-built binary for CEF Win32
 - [Cef Redist x86](https://www.nuget.org/packages/cef.redist.x64)
 - [Cef Redist x64](https://www.nuget.org/packages/cef.redist.x86)
 
-### Directory
+### Directories
 
 ```erlang
 cef3.xxxx.xxxx/
-      |----include/...                                  -> header files
+      |----include/...                                  -> C/C++ headers
       |----resources/...                                -> resources files
       |----bin/                                         -> binaries & locales
             |----debug/ & release/
             |      |----vsxxxx/
-            |      |      |----libcef_dll_wrapper.lib   -> static lib for C++
-            |      |----libcef.lib                      -> linking lib
+            |      |      |----libcef_dll_wrapper.lib   -> C++ wrapper (static library)
+            |      |----libcef.lib                      -> linking library
             |----libcef.dll                             -> dynamic linking binary
             ...
 ```
 
 ### Download
 
-#### Visit my [repo's releases](https://github.com/wy3/cefbuild/releases) or download below.
+#### Visit [repo's releases](https://github.com/wy3/cefbuild/releases) or download below.
 
 | CEF | Chromium | x86 | x64 |
 |-|-|-|-|
